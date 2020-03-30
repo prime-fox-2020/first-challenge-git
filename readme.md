@@ -11,3 +11,4 @@ Mencoba membuat startup dengan mengembangkan produk IoT namun gagal karena kuran
 Dengan masuk hacktiv8, saya berharapa bisa membuat sistem/ aplikasi yang membantu (entah siapa). Dan terus memperdalam ilmu dan pengalaman saya setelah lulus dan berkerja di hacktiv8.
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
+Mohon bantuannya buddy, kak Chavin. Ajari semua yang kakak bisa :)
