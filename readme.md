@@ -8,7 +8,7 @@ Mencoba membuat startup dengan mengembangkan produk IoT namun gagal karena kuran
 
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 ## Ekspektasi
-Dengan masuk hacktiv8, saya berharapa bisa membuat sistem/ aplikasi yang membantu (entah siapa). Dan terus memperdalam ilmu dan pengalaman saya setelah lulus dan berkerja di hacktiv8.
+Dengan masuk hacktiv8, saya berharapa bisa membuat sistem/ aplikasi yang membantu (entah siapa). Dan terus memperdalam ilmu dan pengalaman saya setelah lulus dari hacktiv8 dan berkerja.
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
 Mohon bantuannya buddy, kak Chavin. Ajari semua yang kakak bisa :)
