@@ -11,4 +11,4 @@
 ## mendapat relasi baru dan ilmu baru
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
-## Semoga saya tidak DO :p
+## Nyawa sudah habis...
