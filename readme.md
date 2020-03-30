@@ -4,7 +4,7 @@ Saya Ismail, pendidikan terakhir SMK jurusan Teknik Komputer dan Jaringan, lulus
 
 [//]: # (Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
 ## Motivasi
-Saya ingin menjadi seorang Programmer yang lebih kompeten.
+Saya ingin menjadi seorang fullstack developer.
 
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 ## Ekspektasi
